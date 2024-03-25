@@ -109,6 +109,19 @@
            "year3": "2023",
            "jobdescription1": "I worked on serval occasions at Zane Samuels Construction as a admin as a  part-time job."
 
+            "image": "https://i.ibb.co/SdKH0ZQ/html5-logo-2-removebg-preview.png"
+            "p":"HTML"
+            "image1": "https://i.ibb.co/4s0c1N5/bootstrap-logo-shadow-removebg-preview.png"
+            "p1":"BOOTSTRAP"
+            "image2": "https://i.ibb.co/ZKMk5YM/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-removebg-preview.png"
+            "p2":"jAVASCRIPT"
+            "image3": "https://i.ibb.co/8g7cjhh/node-js-logo-removebg-preview.png"
+            "p3":"NODE JS"
+            "image4": "https://i.ibb.co/MRQSbdj/Vue-js-logo.png"
+            "p4":"VUE JS"
+            "image5": "https://i.ibb.co/nM8FdR8/database-mysql-removebg-preview.png"
+            "p5":"MYSQL"
+
         }
     ]
 }
